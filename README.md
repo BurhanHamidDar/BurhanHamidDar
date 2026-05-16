@@ -5,6 +5,7 @@
 📡 IoT Project Builder  
 🛠️ Database Management  
 ⚡ Software Developer
+<p align="center">
 ## 🚀 Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,4 +28,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=hackthebox)
 ![IoT](https://img.shields.io/badge/IoT-0A0A0A?style=for-the-badge)
+</p>
+
 
