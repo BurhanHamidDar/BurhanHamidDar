@@ -29,5 +29,5 @@
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=hackthebox)
 ![IoT](https://img.shields.io/badge/IoT-0A0A0A?style=for-the-badge)
 </p>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=35&center=true&vCenter=true&width=1000&lines=App+Developer;Web+Developer;IoT+Builder;Cybersecurity+Learner;Software+Developer)](https://git.io/typing-svg)
 
