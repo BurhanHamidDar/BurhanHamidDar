@@ -1,5 +1,4 @@
 
-             [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=35&center=true&vCenter=true&width=1000&lines=App+Developer;Web+Developer;IoT+Builder;Cybersecurity+Learner;Software+Developer)](https://git.io/typing-svg)
 
 # Hi 👋 I'm Burhan
 
@@ -9,7 +8,7 @@
 🛠️ Database Management  
 ⚡ Software Developer
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=35&center=true&vCenter=true&width=1000&lines=App+Developer;Web+Developer;IoT+Builder;Cybersecurity+Learner;Software+Developer)](https://git.io/typing-svg)
 <p align="center">
 ## 🚀 Tech Stack
 
