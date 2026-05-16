@@ -34,3 +34,10 @@
 ![IoT](https://img.shields.io/badge/IoT-0A0A0A?style=for-the-badge)
 </p>
 
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=BurhanHamidDar&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=BurhanHamidDar&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BurhanHamidDar&layout=compact&theme=tokyonight)
