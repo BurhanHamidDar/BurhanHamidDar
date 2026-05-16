@@ -1,4 +1,4 @@
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Burhan%20Hamid&fontSize=50&fontColor=ffffff)
 
 # Hi 👋 I'm Burhan
 
